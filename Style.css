@@ -89,7 +89,7 @@ nav a:hover {
 }
 
 .hero-text .old-price {
-    color: #777;
+    color: #777777;
     text-decoration: line-through;
     font-size: 0.9em;
     margin-left: 10px;
@@ -321,7 +321,7 @@ footer {
 
 .product-card .discount {
     color: #5cb85c; /* Example discount color */
-    font-size: 0.9em;
+    font-size: 1.0em;
 }
 
 .top-products .product-card button {
